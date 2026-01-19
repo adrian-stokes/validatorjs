@@ -11,7 +11,6 @@ lerna-debug.log*
 # Node/yarn artifact files
 node_modules/
 dist/
-lib/
 dist-ssr/
 /docs/
 
